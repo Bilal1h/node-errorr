@@ -1,0 +1,31 @@
+db has 2 types
+relational (SQL, MYSQL)
+non relational (MONGO DB)
+
+jab sb setup kia to db formation hoga
+
+DB SETUP -----------> DB formation
+jab model setup kia to collection banega
+
+MODEL -----------------> COLLECTION
+
+jab schema banaya to documents banenge
+
+SCHEMA ---------------------> DOCUMENTS
+
+
+    DB SETUP -------------->   DB formation
+    MODEL    -------------->   COLLECTION
+    SCHEMA   -------------->   DOCUMENTS
+
+
+
+
+MODELS & COLLECTIONS:
+    variety of data ko banane ke lie hum banate hain models code mein, jo code hum likhte hain wo MODEL hota hai aur us code se jo result formation ho db mein usko hum bolte hain COLLECTIONS.
+
+
+SCHEMA:
+    code mein hum SCHEMA banate hain aur wo result deta hai as documents in databases., ek app ka poora data kehlata hai database. jismein variety of data hota hai jo kehlata hai collections and us collections ke bhi different varieties hote hain jo hota hai schema
+    aik single user ka schema bhi aik seperate document banata hai.
+    
